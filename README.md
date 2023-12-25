@@ -8,7 +8,7 @@ Share notes with each other using IPFS and FIlecoin using Goreli Network to ensu
 ![Solidity Badge](https://img.shields.io/badge/Solidity-%236E4C1E?style=for-the-badge&logo=solidity)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js)
 ![Hardhat Badge](https://img.shields.io/badge/Hardhat-%fff10000?style=for-the-badge&logo=hardhat)
-![Filecoin Badge](https://img.shields.io/badge/Filecoin-%234094FF?style=for-the-badge&logo=filecoin)
+![IPFS Badge](https://img.shields.io/badge/IPFS-%233366FF?style=for-the-badge&logo=ipfs&labelColor=white)
 
 ## 🛠️ Installation Steps
 Star and Fork the Repo 🌟 and this will keep me motivated.
